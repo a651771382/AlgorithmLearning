@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @ClassName MyQueue
- * @Description TODO
+ * @Description 队列
  * @Author 李雁敏
  * @Date 2020/3/28 11:25
  * @Version 1.0
